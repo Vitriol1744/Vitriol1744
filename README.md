@@ -1,1 +1,1 @@
-https://github-readme-stats.vercel.app/api?username=vitriol1744&show_icons=true&theme=dark&count_private=true)](https://github.com/choi303/)
+https://github-readme-stats.vercel.app/api?username=vitriol1744&show_icons=true&theme=dark&count_private=true)](https://github.com/vitriol1744/)
