@@ -8,6 +8,8 @@ I'm 20 years old programmer, aspiring hacker and Linux enthusiast, who loves sti
 - [PhoenixOS](https://github.com/Vitriol1744/PhoenixOS/tree/dev) - x86_64 Unix-like Operating System written in c++
 - [Music Bot](https://github.com/Vitriol1744/MusicBot.git) - Discord Music bot written in Discord.js
 - [PhoenixBoot](https://github.com/Vitriol1744/PhoenixBoot.git) - Bootloader for PhoenixOS written in c++
+- [6502 Emulator](https://github.com/Vitriol1744/6502-Emulator.git) - 6502 emulator written in c
+
 
 ## My TryHackMe profile
 [V1tr10l7](https://tryhackme.com/p/V1tr10l7)
