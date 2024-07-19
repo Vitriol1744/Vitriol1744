@@ -9,6 +9,7 @@ I'm 20 years old programmer, aspiring hacker and Linux enthusiast, who loves sti
 - [Music Bot](https://github.com/Vitriol1744/MusicBot.git) - Discord Music bot written in Discord.js
 - [PhoenixBoot](https://github.com/Vitriol1744/PhoenixBoot.git) - Bootloader for PhoenixOS written in c++
 - [6502 Emulator](https://github.com/Vitriol1744/6502-Emulator.git) - 6502 emulator written in c
+- [Vortex-Engine](https://github.com/Vitriol1744/Vortex/tree/dev) - C++ Game Engine utilizing Vulkan API
 
 
 ## My TryHackMe profile
