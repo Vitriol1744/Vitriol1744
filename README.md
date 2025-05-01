@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about x86, c++, osdev related questions
 - 📫 How to reach me: v1tr10l7 on discord, v1tr10l7@proton.me mail 
 - ⚡ Fun fact: i love osdev and low level programming
-
 --!>
 
+-
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitriol1744&show_icons=true&theme=dark&count_private=true)](https://github.com/Vitriol1744/)
 
