@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i love osdev and low level programming
 
 --!>
+
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitriol1744&show_icons=true&theme=dark&count_private=true)](https://github.com/Vitriol1744/)
 
 I'm 20 years old programmer, aspiring hacker and Linux enthusiast, who loves sticking close to the hardware. The languages i have most experience with are c, c++, x86 assembly and python, but i tried much more languages and technologies
