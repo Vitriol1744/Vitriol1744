@@ -85,7 +85,7 @@ Discord music bot written in TypeScript
 ## 📫 Contact
 
 - 💬 Discord: `v1tr10l7`
-- 📧 Email: `v1ttr10l7@proton.me`
+- 📧 Email: `v1tr10l7@proton.me`
 - 🌐 LinkedIn: [V1tr10l7](https://www.linkedin.com/in/szymon-zemke-07953a275)
 - 🤝 Looking to collaborate on: OSDev, emulators, graphics engines
 
