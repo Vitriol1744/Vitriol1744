@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm a self-taught systems programmer and a student at The Military University of Technology in Warsaw who enjoys building things from the ground up — from custom kernels and memory allocators to emulators, developer tooling, and game engines. 
+I'm a self-taught systems programmer and a student at The Polish-Japanese Academy of Information Technology in Warsaw who enjoys building things from the ground up — from custom kernels and memory allocators to emulators, developer tooling, and game engines. 
 
 I love precision, performance, and learning through building. If it runs close to hardware or helps developers work better, I’m probably working on it.
 
